@@ -9,3 +9,5 @@ https://mvysny.github.io/
 https://github.com/mvysny/vaadin-boot-example-maven
 
 https://gitlab.com/mvysny/jdbi-orm-playground
+
+https://github.com/mvysny/vaadin-boot
