@@ -11,3 +11,12 @@ https://github.com/mvysny/vaadin-boot-example-maven
 https://gitlab.com/mvysny/jdbi-orm-playground
 
 https://github.com/mvysny/vaadin-boot
+
+
+Next:
+add context
+Create login page
+add database access
+add service for authentication and authorization
+create logout machinsam
+
