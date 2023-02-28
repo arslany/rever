@@ -12,6 +12,12 @@ https://gitlab.com/mvysny/jdbi-orm-playground
 
 https://github.com/mvysny/vaadin-boot
 
+https://phauer.com/2020/package-by-feature/
+
+https://mvysny.github.io/mvc-mvp-mvvm-no-thanks/
+
+https://mvysny.github.io/component-oriented-programming/
+
 
 Next:
 add context
