@@ -26,3 +26,11 @@ add database access
 add service for authentication and authorization
 create logout machinsam
 
+
+//TODO
+main layout
+create userDTO
+make it part of session
+implement login logout
+then implement permissions
+Then securitychecks i.e. servlet filter
